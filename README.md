@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hasan-farooq
+- 👋 Hi, I’m Hasan
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently working on Deep Learning based Computer Vision
 - 📫 Reach me @ hasanfarooq1101@gmail.com
