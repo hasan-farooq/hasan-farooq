@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hasan
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently working on Multi-Modal based Deep Learning
+- 🌱 I’m currently working on Multi-Modal Deep Learning
 <!-- - 📫 Reach me @ hasanfarooq1101@gmail.com -->
 
 <!---
